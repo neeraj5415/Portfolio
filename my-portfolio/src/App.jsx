@@ -11,7 +11,7 @@ import MoreAbout from './Brifhpages/DetailAbout.jsx'; // your full journey page
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Portfolio">
       <Routes>
         {/* Homepage Route with all sections */}
         <Route
