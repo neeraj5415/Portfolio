@@ -13,7 +13,7 @@ const Contact = () => {
         <div className="flex flex-col md:flex-row gap-10">
           {/* Contact Form */}
           <div className="flex-1 text-white bg-gradient-to-b from-[#0f172a] to-black p-6 rounded-lg shadow-md">
-            <h3 className="text-xl text-white font-semibold mb-4">Send a Message</h3>
+            <h3 className="text-xl text-white font-semibold mb-4">You can type your Message</h3>
             <form>
               <input
                 type="text"
@@ -52,11 +52,11 @@ const Contact = () => {
             </div>
             <div className="flex items-center gap-3 mb-4">
               <FaPhone className="text-blue-600" />
-              <span>+91 99999 99999</span>
+              <span>(+91) 7302011096, 9690759542</span>
             </div>
             <div className="flex items-center gap-3 mb-4">
               <FaEnvelope className="text-blue-600" />
-              <span>your@email.com</span>
+              <span>neeraj010701@gmail.com</span>
             </div>
           </div>
         </div>

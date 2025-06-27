@@ -4,10 +4,10 @@ import bg from '../assets/bgimg.jpg';
 
 const About = () => {
   return (
-    <section id="about" className="bg-white p-50 bg-cover bg-center" style={{backgroundImage:`url(${bg})`}}>
+    <section id="about" className="bg-white pt-64 md:pt-40 bg-cover bg-center" style={{backgroundImage:`url(${bg})`}}>
       <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8">
         {/* Profile Image */}
-        <div className="w-180 h-77 rounded-full overflow-hidden shadow-md border-8 border-black">
+        <div className="w-40 h-40 sm:w-52 sm:h-52 md:w-60 md:h-60 rounded-full overflow-hidden shadow-md border-8 border-black flex-shrink-0">
           <img
             src={profileImage}
             alt="Profile"

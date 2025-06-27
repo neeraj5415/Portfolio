@@ -8,6 +8,7 @@ import Portfolio from './Pages/Portfolio.jsx';
 import Contact from './Pages/Contact.jsx';
 import Footer from './Pages/Footer.jsx';
 import MoreAbout from './Brifhpages/DetailAbout.jsx'; // your full journey page
+import ScrollToTopButton from './Components/ScrollToTopButton.jsx';
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
         {/* Full Journey Page */}
         <Route path="/more-about" element={<MoreAbout />} />
       </Routes>
+      <ScrollToTopButton />
     </Router>
   );
 }
