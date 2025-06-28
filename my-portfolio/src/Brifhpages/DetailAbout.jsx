@@ -46,7 +46,7 @@ export default function DetailAbout(){
             <p class="text-lg mb-4 text-white">
                 I have built multiple real-world projects, including complete full-stack applications. 
                 You can check some of them out by clicking 
-                 <a href="#" class="text-blue-600"> here</a>.
+                 <a href="https://github.com/neeraj5415" class="text-blue-600"> here</a>.
             </p>
 
             <h3 class="text-2xl font-semibold text-white mt-8 mb-2">📜 Certifications</h3>
@@ -54,7 +54,7 @@ export default function DetailAbout(){
                 I hold official certifications in <strong>Frontend Development</strong> and 
                 <strong> Full-Stack Web Development</strong> from Coding Ninjas. 
                 View my certificates 
-                <a href="#" class="text-blue-600"> here</a>.
+                <a href="https://www.naukri.com/code360/profile/5621ce18-6fb4-4115-8a28-6dee1b6a89a6" class="text-blue-600"> here</a>.
             </p>
 
             <h3 class="text-2xl font-semibold text-white mt-8 mb-2">🔍 What I’m Looking For</h3>

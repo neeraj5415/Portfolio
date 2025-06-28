@@ -9,6 +9,7 @@ import Contact from './Pages/Contact.jsx';
 import Footer from './Pages/Footer.jsx';
 import MoreAbout from './Brifhpages/DetailAbout.jsx'; // your full journey page
 import ScrollToTopButton from './Components/ScrollToTopButton.jsx';
+import './index.css';
 
 function App() {
   return (
